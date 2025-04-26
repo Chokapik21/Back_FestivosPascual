@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FestivosPascua.Aplicacion/1.0.0": {
+        "dependencies": {
+          "FestivosPascua.Core": "1.0.0",
+          "FestivosPascua.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "FestivosPascua.Aplicacion.dll": {}
+        }
+      },
+      "FestivosPascua.Core/1.0.0": {
+        "dependencies": {
+          "FestivosPascua.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "FestivosPascua.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FestivosPascua.Dominio/1.0.0": {
+        "runtime": {
+          "FestivosPascua.Dominio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FestivosPascua.Aplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FestivosPascua.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FestivosPascua.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

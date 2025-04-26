@@ -1,0 +1,36 @@
+C:\Users\Walter Misas\Desktop\IUPB_FestivosPascua\FestivosPascua.Dominio\bin\Debug\net8.0\FestivosPascua.Dominio.deps.json
+C:\Users\Walter Misas\Desktop\IUPB_FestivosPascua\FestivosPascua.Dominio\bin\Debug\net8.0\FestivosPascua.Dominio.dll
+C:\Users\Walter Misas\Desktop\IUPB_FestivosPascua\FestivosPascua.Dominio\bin\Debug\net8.0\FestivosPascua.Dominio.pdb
+C:\Users\Walter Misas\Desktop\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Misas\Desktop\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.AssemblyInfoInputs.cache
+C:\Users\Walter Misas\Desktop\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.AssemblyInfo.cs
+C:\Users\Walter Misas\Desktop\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Walter Misas\Desktop\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.sourcelink.json
+C:\Users\Walter Misas\Desktop\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.dll
+C:\Users\Walter Misas\Desktop\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\refint\FestivosPascua.Dominio.dll
+C:\Users\Walter Misas\Desktop\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.pdb
+C:\Users\Walter Misas\Desktop\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\ref\FestivosPascua.Dominio.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Dominio\bin\Debug\net8.0\FestivosPascua.Dominio.deps.json
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Dominio\bin\Debug\net8.0\FestivosPascua.Dominio.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Dominio\bin\Debug\net8.0\FestivosPascua.Dominio.pdb
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.AssemblyInfoInputs.cache
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.AssemblyInfo.cs
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.sourcelink.json
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\refint\FestivosPascua.Dominio.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.pdb
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\ref\FestivosPascua.Dominio.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Dominio\bin\Debug\net8.0\FestivosPascua.Dominio.deps.json
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Dominio\bin\Debug\net8.0\FestivosPascua.Dominio.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Dominio\bin\Debug\net8.0\FestivosPascua.Dominio.pdb
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.AssemblyInfoInputs.cache
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.AssemblyInfo.cs
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.sourcelink.json
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\refint\FestivosPascua.Dominio.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\FestivosPascua.Dominio.pdb
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Dominio\obj\Debug\net8.0\ref\FestivosPascua.Dominio.dll

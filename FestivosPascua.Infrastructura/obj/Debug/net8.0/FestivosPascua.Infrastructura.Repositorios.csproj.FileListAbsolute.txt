@@ -1,0 +1,40 @@
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.deps.json
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.pdb
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Core.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Dominio.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Core.pdb
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Dominio.pdb
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.pdb
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.csproj.AssemblyReference.cache
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.AssemblyInfoInputs.cache
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.AssemblyInfo.cs
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.sourcelink.json
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\Festivos.0361FAF0.Up2Date
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\refint\FestivosPascua.Infrastructura.Repositorios.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.pdb
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\ref\FestivosPascua.Infrastructura.Repositorios.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.deps.json
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.pdb
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Core.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Dominio.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Core.pdb
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Dominio.pdb
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\bin\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.pdb
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.csproj.AssemblyReference.cache
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.AssemblyInfoInputs.cache
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.AssemblyInfo.cs
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.sourcelink.json
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\Festivos.0361FAF0.Up2Date
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\refint\FestivosPascua.Infrastructura.Repositorios.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\FestivosPascua.Infrastructura.Repositorios.pdb
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Infrastructura\obj\Debug\net8.0\ref\FestivosPascua.Infrastructura.Repositorios.dll

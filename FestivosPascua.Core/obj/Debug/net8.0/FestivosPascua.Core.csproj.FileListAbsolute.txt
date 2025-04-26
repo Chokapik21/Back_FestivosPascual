@@ -1,0 +1,32 @@
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\bin\Debug\net8.0\FestivosPascua.Core.deps.json
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\bin\Debug\net8.0\FestivosPascua.Core.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\bin\Debug\net8.0\FestivosPascua.Core.pdb
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\bin\Debug\net8.0\FestivosPascua.Dominio.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\bin\Debug\net8.0\FestivosPascua.Dominio.pdb
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.csproj.AssemblyReference.cache
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.AssemblyInfoInputs.cache
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.AssemblyInfo.cs
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.csproj.CoreCompileInputs.cache
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.sourcelink.json
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\Festivos.C589280A.Up2Date
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\refint\FestivosPascua.Core.dll
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.pdb
+C:\Users\Walter Misas\Desktop\herramientas3\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\ref\FestivosPascua.Core.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\bin\Debug\net8.0\FestivosPascua.Core.deps.json
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\bin\Debug\net8.0\FestivosPascua.Core.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\bin\Debug\net8.0\FestivosPascua.Core.pdb
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\bin\Debug\net8.0\FestivosPascua.Dominio.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\bin\Debug\net8.0\FestivosPascua.Dominio.pdb
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.csproj.AssemblyReference.cache
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.AssemblyInfoInputs.cache
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.AssemblyInfo.cs
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.csproj.CoreCompileInputs.cache
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.sourcelink.json
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\Festivos.C589280A.Up2Date
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\refint\FestivosPascua.Core.dll
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\FestivosPascua.Core.pdb
+C:\Users\davin\OneDrive\Escritorio\IUPB_FestivosPascua\FestivosPascua.Core\obj\Debug\net8.0\ref\FestivosPascua.Core.dll

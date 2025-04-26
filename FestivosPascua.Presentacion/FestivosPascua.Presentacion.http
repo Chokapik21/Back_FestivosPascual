@@ -1,0 +1,6 @@
+@FestivosPascua.Presentacion_HostAddress = http://localhost:5111
+
+GET {{FestivosPascua.Presentacion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
