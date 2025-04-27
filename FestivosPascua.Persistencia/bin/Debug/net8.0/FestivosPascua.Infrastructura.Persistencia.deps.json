@@ -617,7 +617,10 @@
       },
       "FestivosPascua.Dominio/1.0.0": {
         "runtime": {
-          "FestivosPascua.Dominio.dll": {}
+          "FestivosPascua.Dominio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

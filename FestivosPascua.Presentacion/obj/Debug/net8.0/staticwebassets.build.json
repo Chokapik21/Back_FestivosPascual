@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "GyG0DF1UojoigAK3Mu42HP8Xfo6yuGzSc22bhJxfyx8=",
+  "Hash": "XBHf4c/Bag2EJc99158YhuRJL/XcjNqqC1gxYPG+CaY=",
   "Source": "FestivosPascua.Presentacion",
   "BasePath": "_content/FestivosPascua.Presentacion",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

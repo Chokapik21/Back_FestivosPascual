@@ -20,8 +20,8 @@ namespace FestivosPascua.Dominio.Entidades
 
         public int Mes { get; set; }
 
-        [Column("anio")]
-        public int Anio { get; set; }
+        //[Column("anio")]
+        //public int Anio { get; set; }
 
 
         [Column("DiasPascua")]

@@ -671,7 +671,10 @@
           "FestivosPascua.Dominio": "1.0.0"
         },
         "runtime": {
-          "FestivosPascua.Aplicacion.dll": {}
+          "FestivosPascua.Aplicacion.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "FestivosPascua.Core/1.0.0": {
@@ -679,12 +682,18 @@
           "FestivosPascua.Dominio": "1.0.0"
         },
         "runtime": {
-          "FestivosPascua.Core.dll": {}
+          "FestivosPascua.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "FestivosPascua.Dominio/1.0.0": {
         "runtime": {
-          "FestivosPascua.Dominio.dll": {}
+          "FestivosPascua.Dominio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "FestivosPascua.Infrastructura.Persistencia/1.0.0": {
@@ -693,7 +702,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2"
         },
         "runtime": {
-          "FestivosPascua.Infrastructura.Persistencia.dll": {}
+          "FestivosPascua.Infrastructura.Persistencia.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "FestivosPascua.Infrastructura.Repositorios/1.0.0": {
@@ -703,7 +715,10 @@
           "FestivosPascua.Infrastructura.Persistencia": "1.0.0"
         },
         "runtime": {
-          "FestivosPascua.Infrastructura.Repositorios.dll": {}
+          "FestivosPascua.Infrastructura.Repositorios.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
