@@ -27,6 +27,7 @@ namespace FestivosPascua.Persistencia.Contexto
                 Entidad.HasIndex(e => e.Nombre).IsUnique();
                 Entidad.HasIndex(e => e.Dia).IsUnique();
                 Entidad.HasIndex(e => e.Mes).IsUnique();
+                Entidad.HasIndex(e => e.Anio).IsUnique();
                 Entidad.HasIndex(e => e.DiasPascuas).IsUnique();
             });
 

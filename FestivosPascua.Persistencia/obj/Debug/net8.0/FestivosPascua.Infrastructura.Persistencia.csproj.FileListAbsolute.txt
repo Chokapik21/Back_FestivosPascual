@@ -46,3 +46,19 @@ C:\Users\davin\OneDrive\Escritorio\Back_FestivosPascual\FestivosPascua.Persisten
 C:\Users\davin\OneDrive\Escritorio\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\refint\FestivosPascua.Infrastructura.Persistencia.dll
 C:\Users\davin\OneDrive\Escritorio\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.pdb
 C:\Users\davin\OneDrive\Escritorio\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\ref\FestivosPascua.Infrastructura.Persistencia.dll
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\bin\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.deps.json
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\bin\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.dll
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\bin\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.pdb
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\bin\Debug\net8.0\FestivosPascua.Dominio.dll
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\bin\Debug\net8.0\FestivosPascua.Dominio.pdb
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.csproj.AssemblyReference.cache
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.AssemblyInfo.cs
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.sourcelink.json
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\Festivos.C22AB305.Up2Date
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.dll
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\refint\FestivosPascua.Infrastructura.Persistencia.dll
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\FestivosPascua.Infrastructura.Persistencia.pdb
+C:\Users\Walter Misas\Desktop\back\Back_FestivosPascual\FestivosPascua.Persistencia\obj\Debug\net8.0\ref\FestivosPascua.Infrastructura.Persistencia.dll

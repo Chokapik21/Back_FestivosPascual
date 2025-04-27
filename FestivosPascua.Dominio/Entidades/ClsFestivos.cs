@@ -17,7 +17,12 @@ namespace FestivosPascua.Dominio.Entidades
         public int Dia { get; set; }
 
         [Column("Mes")]
+
         public int Mes { get; set; }
+
+        [Column("anio")]
+        public int Anio { get; set; }
+
 
         [Column("DiasPascua")]
         public int DiasPascuas { get; set; }
