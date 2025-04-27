@@ -4,13 +4,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("PermitirAngular",
-        policy =>
-        {
-            policy.WithOrigins("https://localhost:7118/api/festivo")
-                  .AllowAnyHeader()
-                  .AllowAnyMethod();
-        });
+    options.AddPolicy("PermitirTodo", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
 });
 
 // Add services to the container.
@@ -33,7 +32,7 @@ if (app.Environment.IsDevelopment())
 }
 
 // CORS debe ir antes de Authorization
-app.UseCors("PermitirAngular");
+app.UseCors("PermitirTodo");
 
 
 app.UseHttpsRedirection();

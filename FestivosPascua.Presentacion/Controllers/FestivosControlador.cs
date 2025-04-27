@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace FestivosPascua.Presentacion.Controllers
 {
     [ApiController]
-    [Route("api/festivo/listar")]
+    [Route("api/festivo")]
     public class FestivosController : Controller
     {
         private readonly IFestivoServicio _festivoServicio;

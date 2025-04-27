@@ -2830,11 +2830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\davin\\OneDrive\\Escritorio\\IUPB_FestivosPascua\\FestivosPascua.Persistencia\\FestivosPascua.Infrastructura.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\davin\\OneDrive\\Escritorio\\Back_FestivosPascual\\FestivosPascua.Persistencia\\FestivosPascua.Infrastructura.Persistencia.csproj",
       "projectName": "FestivosPascua.Infrastructura.Persistencia",
-      "projectPath": "C:\\Users\\davin\\OneDrive\\Escritorio\\IUPB_FestivosPascua\\FestivosPascua.Persistencia\\FestivosPascua.Infrastructura.Persistencia.csproj",
+      "projectPath": "C:\\Users\\davin\\OneDrive\\Escritorio\\Back_FestivosPascual\\FestivosPascua.Persistencia\\FestivosPascua.Infrastructura.Persistencia.csproj",
       "packagesPath": "C:\\Users\\davin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\davin\\OneDrive\\Escritorio\\IUPB_FestivosPascua\\FestivosPascua.Persistencia\\obj\\",
+      "outputPath": "C:\\Users\\davin\\OneDrive\\Escritorio\\Back_FestivosPascual\\FestivosPascua.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2855,8 +2855,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\davin\\OneDrive\\Escritorio\\IUPB_FestivosPascua\\FestivosPascua.Dominio\\FestivosPascua.Dominio.csproj": {
-              "projectPath": "C:\\Users\\davin\\OneDrive\\Escritorio\\IUPB_FestivosPascua\\FestivosPascua.Dominio\\FestivosPascua.Dominio.csproj"
+            "C:\\Users\\davin\\OneDrive\\Escritorio\\Back_FestivosPascual\\FestivosPascua.Dominio\\FestivosPascua.Dominio.csproj": {
+              "projectPath": "C:\\Users\\davin\\OneDrive\\Escritorio\\Back_FestivosPascual\\FestivosPascua.Dominio\\FestivosPascua.Dominio.csproj"
             }
           }
         }

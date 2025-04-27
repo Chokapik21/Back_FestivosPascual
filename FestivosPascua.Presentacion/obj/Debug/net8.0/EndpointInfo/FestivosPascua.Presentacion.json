@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/festivo/listar/validar": {
+    "/api/festivo/validar": {
       "get": {
         "tags": [
           "Festivos"
@@ -43,7 +43,7 @@
         }
       }
     },
-    "/api/festivo/listar/listar": {
+    "/api/festivo/listar": {
       "get": {
         "tags": [
           "Festivos"
@@ -55,7 +55,7 @@
         }
       }
     },
-    "/api/festivo/listar/obtener/{id}": {
+    "/api/festivo/obtener/{id}": {
       "get": {
         "tags": [
           "Festivos"
@@ -78,7 +78,7 @@
         }
       }
     },
-    "/api/festivo/listar/agregar": {
+    "/api/festivo/agregar": {
       "post": {
         "tags": [
           "Festivos"
@@ -109,7 +109,7 @@
         }
       }
     },
-    "/api/festivo/listar/buscar/{Tipo}/{Dato}": {
+    "/api/festivo/buscar/{Tipo}/{Dato}": {
       "get": {
         "tags": [
           "Festivos"
@@ -166,7 +166,7 @@
         }
       }
     },
-    "/api/festivo/listar/modificar/{id}": {
+    "/api/festivo/modificar/{id}": {
       "put": {
         "tags": [
           "Festivos"
@@ -208,7 +208,7 @@
         }
       }
     },
-    "/api/festivo/listar/eliminar/{id}": {
+    "/api/festivo/eliminar/{id}": {
       "delete": {
         "tags": [
           "Festivos"

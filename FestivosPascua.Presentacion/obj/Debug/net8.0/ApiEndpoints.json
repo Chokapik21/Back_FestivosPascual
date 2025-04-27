@@ -2,7 +2,7 @@
   {
     "ContainingType": "FestivosPascua.Presentacion.Controllers.FestivosController",
     "Method": "Agregar",
-    "RelativePath": "api/festivo/listar/agregar",
+    "RelativePath": "api/festivo/agregar",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -18,7 +18,7 @@
   {
     "ContainingType": "FestivosPascua.Presentacion.Controllers.FestivosController",
     "Method": "Buscar",
-    "RelativePath": "api/festivo/listar/buscar/{Tipo}/{Dato}",
+    "RelativePath": "api/festivo/buscar/{Tipo}/{Dato}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -49,7 +49,7 @@
   {
     "ContainingType": "FestivosPascua.Presentacion.Controllers.FestivosController",
     "Method": "Eliminar",
-    "RelativePath": "api/festivo/listar/eliminar/{id}",
+    "RelativePath": "api/festivo/eliminar/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -65,7 +65,7 @@
   {
     "ContainingType": "FestivosPascua.Presentacion.Controllers.FestivosController",
     "Method": "ObtenerTodos",
-    "RelativePath": "api/festivo/listar/listar",
+    "RelativePath": "api/festivo/listar",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -75,7 +75,7 @@
   {
     "ContainingType": "FestivosPascua.Presentacion.Controllers.FestivosController",
     "Method": "Modificar",
-    "RelativePath": "api/festivo/listar/modificar/{id}",
+    "RelativePath": "api/festivo/modificar/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -96,7 +96,7 @@
   {
     "ContainingType": "FestivosPascua.Presentacion.Controllers.FestivosController",
     "Method": "Obtener",
-    "RelativePath": "api/festivo/listar/obtener/{id}",
+    "RelativePath": "api/festivo/obtener/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -112,7 +112,7 @@
   {
     "ContainingType": "FestivosPascua.Presentacion.Controllers.FestivosController",
     "Method": "Validar",
-    "RelativePath": "api/festivo/listar/validar",
+    "RelativePath": "api/festivo/validar",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
