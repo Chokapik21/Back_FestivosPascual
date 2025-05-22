@@ -231,7 +231,7 @@
         }
       }
     },
-    "/api/tipos": {
+    "/api/tipo/listar": {
       "get": {
         "tags": [
           "Tipos"
@@ -243,7 +243,7 @@
         }
       }
     },
-    "/api/tipos/obtener/{id}": {
+    "/api/tipo/obtener/{id}": {
       "get": {
         "tags": [
           "Tipos"
@@ -266,7 +266,7 @@
         }
       }
     },
-    "/api/tipos/agregar": {
+    "/api/tipo/agregar": {
       "post": {
         "tags": [
           "Tipos"
@@ -297,7 +297,7 @@
         }
       }
     },
-    "/api/tipos/modificar/{id}": {
+    "/api/tipo/modificar/{id}": {
       "put": {
         "tags": [
           "Tipos"
@@ -339,7 +339,7 @@
         }
       }
     },
-    "/api/tipos/eliminar/{id}": {
+    "/api/tipo/eliminar/{id}": {
       "delete": {
         "tags": [
           "Tipos"
@@ -358,6 +358,55 @@
         "responses": {
           "200": {
             "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/tipo/porTipo/{tipoId}": {
+      "get": {
+        "tags": [
+          "Tipos"
+        ],
+        "parameters": [
+          {
+            "name": "tipoId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ClsFestivosPorTipoDto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ClsFestivosPorTipoDto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ClsFestivosPorTipoDto"
+                  }
+                }
+              }
+            }
           }
         }
       }
@@ -396,6 +445,24 @@
           },
           "tipo": {
             "$ref": "#/components/schemas/ClsTipo"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ClsFestivosPorTipoDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombre": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombreTipo": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

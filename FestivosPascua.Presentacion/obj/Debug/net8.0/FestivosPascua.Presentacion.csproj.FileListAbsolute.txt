@@ -277,7 +277,6 @@ C:\Users\davin\OneDrive\Escritorio\Back_FestivosPascual\FestivosPascua.Presentac
 C:\Users\davin\OneDrive\Escritorio\Back_FestivosPascual\FestivosPascua.Presentacion\obj\Debug\net8.0\FestivosPascua.Presentacion.AssemblyInfoInputs.cache
 C:\Users\davin\OneDrive\Escritorio\Back_FestivosPascual\FestivosPascua.Presentacion\obj\Debug\net8.0\FestivosPascua.Presentacion.AssemblyInfo.cs
 C:\Users\davin\OneDrive\Escritorio\Back_FestivosPascual\FestivosPascua.Presentacion\obj\Debug\net8.0\FestivosPascua.Presentacion.csproj.CoreCompileInputs.cache
-C:\Users\davin\OneDrive\Escritorio\Back_FestivosPascual\FestivosPascua.Presentacion\obj\Debug\net8.0\FestivosPascua.Presentacion.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\davin\OneDrive\Escritorio\Back_FestivosPascual\FestivosPascua.Presentacion\obj\Debug\net8.0\FestivosPascua.Presentacion.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\davin\OneDrive\Escritorio\Back_FestivosPascual\FestivosPascua.Presentacion\obj\Debug\net8.0\FestivosPascua.Presentacion.sourcelink.json
 C:\Users\davin\OneDrive\Escritorio\Back_FestivosPascual\FestivosPascua.Presentacion\obj\Debug\net8.0\scopedcss\bundle\FestivosPascua.Presentacion.styles.css

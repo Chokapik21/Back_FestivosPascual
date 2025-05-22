@@ -4,9 +4,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("PermitirTodo", policy =>
+    options.AddPolicy("PermitirAngular", 
+        policy =>
     {
-        policy.AllowAnyOrigin()
+        policy.WithOrigins("http://localhost:4200")
+              //.AllowAnyOrigin()
               .AllowAnyMethod()
               .AllowAnyHeader();
     });
@@ -31,11 +33,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// CORS debe ir antes de Authorization
-app.UseCors("PermitirTodo");
-
-
 app.UseHttpsRedirection();
+
+// CORS debe ir antes de Authorization
+app.UseCors("PermitirAngular");
 
 app.UseAuthorization();
 

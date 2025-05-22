@@ -1,5 +1,6 @@
 ﻿using FestivosPascua.Core.Repositorios;
 using FestivosPascua.Core.Servicios;
+using FestivosPascua.Dominio.Dtos;
 using FestivosPascua.Dominio.Entidades;
 
 namespace FestivosPascua.Aplicacion.Servicios
@@ -41,6 +42,10 @@ namespace FestivosPascua.Aplicacion.Servicios
         public async Task<IEnumerable<ClsTipo>> ObtenerTodos()
         {
             return await repositorio.ObtenerTodos();
+        }
+        public async Task<IEnumerable<ClsFestivosPorTipoDto>> ObtenerFestivosConNombreTipo(int tipoId)
+        {
+            return await repositorio.ObtenerFestivosConNombreTipo(tipoId);
         }
     }
 }

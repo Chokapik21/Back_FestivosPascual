@@ -1,4 +1,5 @@
-﻿using FestivosPascua.Dominio.Entidades;
+﻿using FestivosPascua.Dominio.Dtos;
+using FestivosPascua.Dominio.Entidades;
 
 namespace FestivosPascua.Core.Servicios
 {
@@ -15,5 +16,6 @@ namespace FestivosPascua.Core.Servicios
         Task<bool> Eliminar(int Id);
 
         Task<IEnumerable<ClsFestivos>> Buscar(int Tipo, string Dato);
+        //Task<IEnumerable<ClsFestivosPorTipoDto>> ObtenerFestivosConNombreTipo(int tipoId);
     }
 }

@@ -137,18 +137,8 @@
   },
   {
     "ContainingType": "FestivosPascua.Presentacion.Controllers.TiposController",
-    "Method": "ObtenerTodos",
-    "RelativePath": "api/tipos",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "FestivosPascua.Presentacion.Controllers.TiposController",
     "Method": "Agregar",
-    "RelativePath": "api/tipos/agregar",
+    "RelativePath": "api/tipo/agregar",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -164,7 +154,7 @@
   {
     "ContainingType": "FestivosPascua.Presentacion.Controllers.TiposController",
     "Method": "Eliminar",
-    "RelativePath": "api/tipos/eliminar/{id}",
+    "RelativePath": "api/tipo/eliminar/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -179,8 +169,18 @@
   },
   {
     "ContainingType": "FestivosPascua.Presentacion.Controllers.TiposController",
+    "Method": "ObtenerTodos",
+    "RelativePath": "api/tipo/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FestivosPascua.Presentacion.Controllers.TiposController",
     "Method": "Modificar",
-    "RelativePath": "api/tipos/modificar/{id}",
+    "RelativePath": "api/tipo/modificar/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -201,7 +201,7 @@
   {
     "ContainingType": "FestivosPascua.Presentacion.Controllers.TiposController",
     "Method": "Obtener",
-    "RelativePath": "api/tipos/obtener/{id}",
+    "RelativePath": "api/tipo/obtener/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -213,5 +213,31 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FestivosPascua.Presentacion.Controllers.TiposController",
+    "Method": "ObtenerFestivosConNombreTipo",
+    "RelativePath": "api/tipo/porTipo/{tipoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FestivosPascua.Dominio.Dtos.ClsFestivosPorTipoDto, FestivosPascua.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

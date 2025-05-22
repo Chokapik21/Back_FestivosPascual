@@ -17,7 +17,6 @@ namespace FestivosPascua.Dominio.Entidades
         public int Dia { get; set; }
 
         [Column("Mes")]
-
         public int Mes { get; set; }
 
         //[Column("anio")]

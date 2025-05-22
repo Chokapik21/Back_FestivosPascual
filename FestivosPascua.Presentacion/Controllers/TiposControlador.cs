@@ -1,11 +1,13 @@
-﻿using FestivosPascua.Core.Servicios;
+﻿using FestivosPascua.Aplicacion.Servicios;
+using FestivosPascua.Core.Servicios;
+using FestivosPascua.Dominio.Dtos;
 using FestivosPascua.Dominio.Entidades;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FestivosPascua.Presentacion.Controllers
 {
     [ApiController]
-    [Route("api/tipos")]
+    [Route("api/tipo")]
     
     public class TiposController : ControllerBase
     {
@@ -16,7 +18,7 @@ namespace FestivosPascua.Presentacion.Controllers
             servicio = tipoServicio;
         }
 
-        [HttpGet]
+        [HttpGet("listar")]
         public async Task<IActionResult> ObtenerTodos()
         {
             var tipos = await servicio.ObtenerTodos();
@@ -56,6 +58,17 @@ namespace FestivosPascua.Presentacion.Controllers
             if (!eliminado) return NotFound();
 
             return NoContent();
+        }
+
+        [HttpGet("porTipo/{tipoId}")]
+        public async Task<ActionResult<IEnumerable<ClsFestivosPorTipoDto>>> ObtenerFestivosConNombreTipo(int tipoId)
+        {
+            var resultado = await servicio.ObtenerFestivosConNombreTipo(tipoId);
+
+            if (!resultado.Any())
+                return NotFound("No se encontraron festivos con ese tipo.");
+
+            return Ok(resultado);
         }
     }
 }

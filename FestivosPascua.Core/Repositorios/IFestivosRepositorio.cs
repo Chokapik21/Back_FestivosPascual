@@ -1,4 +1,5 @@
 ﻿using FestivosPascua.Dominio.Entidades;
+using FestivosPascua.Dominio.Dtos;
 
 namespace FestivosPascua.Core.Repositorios
 {
@@ -11,5 +12,7 @@ namespace FestivosPascua.Core.Repositorios
         Task<ClsFestivos> Obtener(int id);
         Task<IEnumerable<ClsFestivos>> ObtenerTodos();
         Task<List<ClsFestivos>> ObtenerTodosFestivos();
+
+        //Task<IEnumerable<ClsFestivosPorTipoDto>> ObtenerFestivosConNombreTipo(int tipoId);
     }
 }

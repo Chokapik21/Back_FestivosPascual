@@ -1,7 +1,9 @@
 ﻿using FestivosPascua.Core.Servicios;
 using FestivosPascua.Core.Utilidades;
+using FestivosPascua.Dominio.Dtos;
 using FestivosPascua.Dominio.Entidades;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace FestivosPascua.Presentacion.Controllers
 {
@@ -86,6 +88,15 @@ namespace FestivosPascua.Presentacion.Controllers
             return NoContent();
         }
 
-        
+        /*[HttpGet("por-tipo/{tipoId}")]
+        public async Task<ActionResult<IEnumerable<ClsFestivosPorTipoDto>>> ObtenerFestivosConNombreTipo(int tipoId)
+        {
+            var resultado = await _festivoServicio.ObtenerFestivosConNombreTipo(tipoId);
+
+            if (!resultado.Any())
+                return NotFound("No se encontraron festivos con ese tipo.");
+
+            return Ok(resultado);
+        }*/
     }
 }
